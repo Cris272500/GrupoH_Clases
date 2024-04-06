@@ -22,4 +22,4 @@ int main(void)
 
 Aca hay un ejemplo de como se visualizaria por consola
 
- ![](Ejemplos_images/Ejemplo1.png?raw=true)
+ ![image](https://github.com/Cris272500/GrupoH_Clases/assets/113935131/e2201ee8-e1d2-42e8-8201-c83c30bcc511)
