@@ -22,4 +22,4 @@ int main(void)
 
 Aca hay un ejemplo de como se visualizaria por consola
 
- [Ejemplo1](Ejemplos_images/Ejemplo1.png?raw=true)
+ ![Ejemplo1](Ejemplos_images/Ejemplo1.png?raw=true)
