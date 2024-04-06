@@ -1,0 +1,6 @@
+En el siguiente ejemplo se pretende cambiar la posicion de memoria en la que se encuentra el puntero utilizando el operador `-=`
+
+```[c]
+
+
+```
