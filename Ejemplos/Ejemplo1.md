@@ -22,3 +22,4 @@ int main(void)
 
 Aca hay un ejemplo de como se visualizaria por consola
 
+ ![Ejemplo1](https://github.com/Cris272500/GrupoH_Clases/tree/main/Ejemplos_images/Ejemplo1.png)
