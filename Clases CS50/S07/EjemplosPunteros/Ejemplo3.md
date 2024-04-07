@@ -1,6 +1,6 @@
 En este ejemplo se puede confirmar que con el uso de punteros tambien podemos hacer comparaciones con operadores relaciones
 
-```
+```c
 #include <stdio.h>
 /*Podemos comparar los dos punteros usando los operadores de comparación en C. 
 Podemos implementar esto usando todos los operadores en C >, >=, <, <=, ==, !=. 

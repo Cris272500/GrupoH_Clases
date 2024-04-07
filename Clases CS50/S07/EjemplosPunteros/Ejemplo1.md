@@ -1,6 +1,6 @@
 En el siguiente ejemplo se pretende cambiar la posicion de memoria en la que se encuentra el puntero utilizando el operador `-=`
 
-```[c]
+```c
 #include <stdio.h>
 
 /*Cuando se resta un puntero con un valor entero, el valor se multiplica primero por el tamaño

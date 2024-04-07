@@ -1,6 +1,6 @@
 En este ejemplo se puede observar la distancia de direccion de memoria que hay entre ambas variables
 
-```
+```c
 #include <stdio.h>
 
 /*--Resta de dos punteros--
