@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EjemplosPunteros/Ejemplo5.md",
+                "file": "S07-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EjemplosPunteros/Ejemplo5.md",
+                "file": "S07-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EjemplosPunteros/Ejemplo5.md",
+                "file": "S07-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EjemplosPunteros/Ejemplo5.md"
+                "file": "S07-1.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "70e9cf0a2e9d6c00",
   "lastOpenFiles": [
+    "EjemplosPunteros/Ejemplo5.md",
     "EjemplosPunteros/Ejemplo4.md",
+    "Untitled.md",
     "EjemplosPunteros/Ejemplo3.md",
     "EjemplosPunteros/Ejemplo2.md",
     "EjemplosPunteros/Ejemplo1.md",
