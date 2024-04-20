@@ -4,12 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <strings.h>
-    /**
-     * Crear el nodo nuevo, malloc (listo)
-     * validar que malloc reserve correctamente (Listo)
-     * Almacenar el dato (Listo)
-     * Enlazarlo con la lista original ()
-     */
+
 typedef struct node
 {
     char word[46];
