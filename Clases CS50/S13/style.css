@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+header {
+    font-size: large;
+}
+
+main {
+    font-size: medium;
+}
+
+footer {
+    font-size: small;
+}
+
+#p1 {
+    color: blue;
+}
+
+#p2 {
+    color: red;
+}
+
+.btn {
+    background-color: blueviolet;
+}

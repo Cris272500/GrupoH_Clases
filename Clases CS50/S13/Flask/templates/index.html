@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+{% block title %} Index {% endblock %}
+{% block body%}
+<form action="/saludo" method="get">
+    <input autofocus name="name" placeholder="Ingrese su nombre" type="text">
+    <input type="submit">
+</form>
+{% endblock %}
