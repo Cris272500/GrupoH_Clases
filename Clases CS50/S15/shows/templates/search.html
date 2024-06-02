@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %} Resultados {% endblock %}
+
+{% block body %}
+    {% if not shows %}
+        <h3 style="color: red;">Elementos no encontrados</h3>
+    {% else %}
+        <h3 style="color: green;">Elementos encontrados</h3>
+        <ul>
+          {% for show in shows %}
+            <li>{{ show['title'] }}</li>
+          {% endfor %}
+        </ul>
+
+    {% endif %}
+{% endblock %}

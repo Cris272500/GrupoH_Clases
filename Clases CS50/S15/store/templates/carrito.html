@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block title %} Carrito {% endblock %}
+
+{% block body %}
+    <h2>Productos del carrito</h2>
+    {% if cart_books %}
+        <ol>
+            {% for book in cart_books %}
+                <li>{{ book['title'] }}</li>
+            {% endfor %}
+        </ol>
+    {% else %}
+        <h4>No hay libros en el carrito</h4>
+    {% endif %}
+{% endblock %}
